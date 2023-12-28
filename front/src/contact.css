@@ -1,0 +1,58 @@
+
+.containercontact {
+    background-position: center;
+    height: 800px;
+    border-radius: 40px;
+    margin-top: 50px;
+    width: 80%;
+    background-color: #f9b454;
+    margin: 50px auto;
+
+  }
+
+
+  
+  #Contact {
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-size: 45px;
+    font-weight: bold;
+  }
+  
+  form {
+    margin-bottom: 50px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group textarea {
+    height: 150px;
+    resize: none;
+  }
+  
+  .form-control {
+    font-size: xx-large;
+    border-radius: 30px;
+    background-color: #fde7c9;
+
+  }
+
+  label {
+    font-size: xx-large;
+    font-weight: bold;
+  }
+
+  
+  .btn {
+    background-color: #af2f64;
+    border-color:#af2f64;
+    width: 50%;
+    color: white;
+    font-size: large;
+    border-radius: 10px;
+    height: 57px;
+    margin: 0% auto;
+
+  }
